@@ -1,5 +1,5 @@
 # :spaghetti: SG Personal Food Assistant :spaghetti:
-##### Automatic Speech Recognition(ASR) with WhisperAI fine-tuned to localities in Singapore and using Llama 3.1 as a chatbot
+##### Automatic Speech Recognition(ASR) with WhisperAI fine-tuned to localities in Singapore and using Llama 3.1 as a personal assistant chatbot
 
 # Table of Contents
 
