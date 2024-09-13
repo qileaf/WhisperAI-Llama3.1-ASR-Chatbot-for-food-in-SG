@@ -6,13 +6,13 @@
 1. [Background](#background)
 2. [Purpose](#purpose)
 3. [Methodology](#methodology)
-4. [Data Dictionary](#data-dictionary)
-5. [Models Used](#models-used)
-6. [Summary of Findings](#summary-of-findings)
-7. [Installation](#installation)
+4. [Models Used](#models-used)
+5. [Summary of Findings](#summary-of-findings)
+6. [Installation](#installation)
     - [Hardware](#hardware)
     - [Dependencies](#dependencies)
     - [File Format](#file-format)
+    - [Checkpoints](#checkpoints)
     
 ## Background
 Apart from our world class tourist attractions such as Gardens by the Bay and Marina Bay Sands,
@@ -63,3 +63,9 @@ After installation, you should then be able to run the code smoothly :smile:
 
 The WhisperAI fine tuning file is in .ipynb format and was created in VS Code and Jupyter Notebook :book:</br>
 The `main.py` file is made with Streamlit to be run locally, however you may need to obtain a Groq API key to be able to run the Streamlit file, which sends queries to Llama 3.1 through the Groq client.
+
+##### *Checkpoints*
+
+The checkpoints for the fine-tuning of WhisperAI may be downloaded from the link below:</br>
+https://1drv.ms/f/s!AlfOVEhTcZG-y0wx0l6gaOiRL7Aj?e=0VJeiG</br>
+Copy and paste the folder into the main repo to be able to run the files smoothly.
